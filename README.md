@@ -6,22 +6,9 @@ This project is a personal student portfolio developed to showcase
 academic achievements, technical skills, projects, certifications,
 and other professional information.
 
-## Features
+## \## Project Status
 
-- Student profile
-- Technical skills
-- Academic achievements
-- Projects
-- Certifications
-- Contact information
+## 
 
-## Technologies Used
+## This project is currently under development.
 
-- HTML
-- CSS
-- Git
-- GitHub
-
-## Author
-
-LOKESH KUMAR
